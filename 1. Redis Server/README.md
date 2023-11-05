@@ -1,6 +1,11 @@
-## Start Redis server
-
-- For start redis server use:
+# Start Redis server
+## run 
+- For run redis server use this:
 ```console
-redis-server
+docker run -it -d [container name] redis-server
+```
+## Redis cli
+- Once you exec the container
+```console
+redis-cli
 ```
