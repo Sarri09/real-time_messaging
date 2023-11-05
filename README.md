@@ -1,1 +1,1 @@
-# real-time_messaging
+# Real Time Messaging Service with Redis
