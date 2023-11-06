@@ -1,6 +1,6 @@
 import redis
 
-r = redis.Redis(host='172.17.0.2', port=6379, decode_responses=True)
+r = redis.Redis(host='172.18.0.3', port=6379, decode_responses=True)
 
 channel = 'prueba'
 
